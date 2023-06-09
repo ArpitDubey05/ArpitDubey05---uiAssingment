@@ -26,5 +26,7 @@ To install the project and its dependencies, follow these steps:
       shell
       cd ArpitDubey05---uiAssingment
 3. Install the dependencies: npm install
-4. To run the automation script, use the following command: npm run start
+4. update the username and password in data.json file
+5. To run the automation script, use the following command: npm run start
+6. When you have the project in your localk repo you can use :npx playwright test to start the test in headless mode and npx playwright test --headed for headed mode
 
